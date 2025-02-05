@@ -8,7 +8,7 @@
     "build": "npx tsc && npx webpack --mode production"
   },
   "dependencies": {
-    "scenerystack": "0.0.23"
+    "scenerystack": "0.0.24"
   },
   "devDependencies": {
     "webpack": "^5.97.1",
